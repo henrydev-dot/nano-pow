@@ -20,7 +20,7 @@ This repository contains the official genesis files, bootstrap configurations, a
 - **Gas Limit:** `30,000,000`
 - **Genesis Difficulty:** `1024` (0x400) - CPU miner friendly
 - **Public RPC Endpoint:** `https://rpc.nan0.cash`
-- **Public Block Explorer:** `http://blocks.nan0.cash`
+- **Public Block Explorer:** `http://explorer.nan0.cash`
 
 ---
 
@@ -32,9 +32,9 @@ You can manually add the NANO POW Chain to MetaMask using the following details:
 - **RPC URL:** `https://rpc.nan0.cash`
 - **Chain ID:** `78910`
 - **Currency Symbol:** `NANO`
-- **Block Explorer URL:** `http://blocks.nan0.cash`
+- **Block Explorer URL:** `http://explorer.nan0.cash`
 
-Alternatively, you can visit the [NANO Block Explorer](http://blocks.nan0.cash) and click **ADD NANO CHAIN** to automatically add and connect your MetaMask wallet.
+Alternatively, you can visit the [NANO Block Explorer](http://explorer.nan0.cash) and click **ADD NANO CHAIN** to automatically add and connect your MetaMask wallet.
 
 ---
 
@@ -142,7 +142,7 @@ EVM uyumlu, saf Proof of Work (PoW) blockchain ağımız NANO POW yayında!
 Toplam arz 110M ile sınırlı, ilk blok ödülü 260 NANO! Her şey madenciler için.
 
 Hemen CPU/GPU ile kazmaya başlayın, cüzdanınızı bağlayın:
-🌐 Explorer & MetaMask Ekleme: http://blocks.nan0.cash
+🌐 Explorer & MetaMask Ekleme: http://explorer.nan0.cash
 💻 Madenci Kurulum Seti (Windows & macOS Scriptler): https://github.com/henrydev-dot/nano-pow
 ⚡ RPC Adresi: https://rpc.nan0.cash (ChainID: 78910)
 
@@ -157,7 +157,7 @@ NANO POW is officially live—a pure EVM-compatible Proof of Work (PoW) network.
 Max supply is capped at 110,000,000 NANO. Initial block reward is 260 NANO.
 
 Mine directly on your local computer using CPU/GPU in minutes:
-🌐 Block Explorer & 1-Click MetaMask Add: http://blocks.nan0.cash
+🌐 Block Explorer & 1-Click MetaMask Add: http://explorer.nan0.cash
 💻 Windows & macOS Auto-Miner Scripts: https://github.com/henrydev-dot/nano-pow
 ⚡ RPC Server: https://rpc.nan0.cash (ChainID: 78910)
 
