@@ -19,7 +19,7 @@ This repository contains the official genesis files, bootstrap configurations, a
 - **Target Block Time:** 13-15 seconds
 - **Gas Limit:** `30,000,000`
 - **Genesis Difficulty:** `1024` (0x400) - CPU miner friendly
-- **Public RPC Endpoint:** `https://rpc.nan0.cash`
+- **Public RPC Endpoint:** `https://rpc.orisdao.com`
 - **Public Block Explorer:** `http://explorer.nan0.cash`
 
 ---
@@ -29,7 +29,7 @@ This repository contains the official genesis files, bootstrap configurations, a
 You can manually add the NANO POW Chain to MetaMask using the following details:
 
 - **Network Name:** NANO POW Chain
-- **RPC URL:** `https://rpc.nan0.cash`
+- **RPC URL:** `https://rpc.orisdao.com`
 - **Chain ID:** `78910`
 - **Currency Symbol:** `NANO`
 - **Block Explorer URL:** `http://explorer.nan0.cash`
@@ -144,7 +144,7 @@ Toplam arz 110M ile sınırlı, ilk blok ödülü 260 NANO! Her şey madenciler 
 Hemen CPU/GPU ile kazmaya başlayın, cüzdanınızı bağlayın:
 🌐 Explorer & MetaMask Ekleme: http://explorer.nan0.cash
 💻 Madenci Kurulum Seti (Windows & macOS Scriptler): https://github.com/henrydev-dot/nano-pow
-⚡ RPC Adresi: https://rpc.nan0.cash (ChainID: 78910)
+⚡ RPC Adresi: https://rpc.orisdao.com (ChainID: 78910)
 
 Kendi cüzdanını oluştur, genesis bloğunu eşle ve tarihe ortak ol! 🚀 #NANOPow #PoW #Mining #Web3 #EVM
 ```
@@ -159,7 +159,7 @@ Max supply is capped at 110,000,000 NANO. Initial block reward is 260 NANO.
 Mine directly on your local computer using CPU/GPU in minutes:
 🌐 Block Explorer & 1-Click MetaMask Add: http://explorer.nan0.cash
 💻 Windows & macOS Auto-Miner Scripts: https://github.com/henrydev-dot/nano-pow
-⚡ RPC Server: https://rpc.nan0.cash (ChainID: 78910)
+⚡ RPC Server: https://rpc.orisdao.com (ChainID: 78910)
 
 Generate your keys, sync the genesis, and start accumulating NANO today. 🚀 #NANOPow #EVM #ProofOfWork #Mining
 ```

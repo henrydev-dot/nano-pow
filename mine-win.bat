@@ -156,7 +156,7 @@ echo   NANO POW PROTOCOL BOOTING UP
 echo   Chain ID:       !CHAIN_ID!
 echo   Rewards Wallet: !WALLET_ADDRESS!
 echo   CPU Threads:    !THREADS!
-echo   Network RPC:    https://rpc.nan0.cash
+echo   Network RPC:    https://rpc.orisdao.com
 echo ====================================================================
 echo [*] Launching geth miner...
 echo.
