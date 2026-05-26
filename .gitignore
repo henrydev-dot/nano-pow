@@ -1,0 +1,11 @@
+# Blockchain Data Directories (Local Node State)
+nano-node-data/
+nano-local-data/
+
+# Logs and system files
+*.log
+.DS_Store
+
+# Temporary archives
+*.zip
+*.tar.gz
