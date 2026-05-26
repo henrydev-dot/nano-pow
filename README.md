@@ -1,23 +1,39 @@
 # NANO POW // PURE EVM-COMPATIBLE POW BLOCKCHAIN
 
-Welcome to **NANO POW**, a purely fair-launch, high-performance, EVM-compatible Proof-of-Work (PoW) blockchain network. 
+> [!TIP]
+> **Support NANO POW Core Development!**
+> - **Donation Address:** `0xca8e980e98586dafd3FDC72879b562Bd38ceB47E` (EVM / NANO Compatible)
+> - We are fully dedicated to building, maintaining, and expanding the sovereign NANO POW ecosystem. Support core development by contributing to the NANO Foundation fund. Thank you for standing with decentralized technology!
 
-Built on a zero-pre-mine policy, every single NANO token in circulation is generated purely through CPU or GPU mining. There are no allocations for founders, advisors, or venture capitalists. 
+Welcome to **NANO POW**, a next-generation, high-performance, EVM-compatible Proof-of-Work (PoW) blockchain network built for absolute decentralization.
 
-This repository contains the official genesis files, bootstrap configurations, and automated mining scripts for **macOS** and **Windows** to help you join the network instantly.
+Engineered with a **strict zero-pre-mine policy**, every single NANO token in circulation is generated purely through active CPU or GPU mining. NANO POW uniquely couples the legendary security of pure PoW with an on-chain **Privacy Layer**—enabling private mixer mechanics, stealth-keys, and shielded accounts directly at the consensus level.
 
 ---
 
-## NETWORK STATISTICS & TECHNICAL DETAILS
+## OFFICIAL NANO ECOSYSTEM DIRECTORY
+
+To provide a complete, decentralized Web3 ecosystem, the NANO POW project is modularly split across multiple official repositories. Explore and deploy them:
+
+- 🌐 **Landing Portal Website:** [https://github.com/henrydev-dot/nano-landing](https://github.com/henrydev-dot/nano-landing)
+  - *Description:* Cyberpunk dark-themed marketing portal with Web3 MetaMask integration, live RPC stats, and dynamic network statuses.
+- 🔍 **Standalone Block Explorer:** [https://github.com/henrydev-dot/nano-explorer](https://github.com/henrydev-dot/nano-explorer)
+  - *Description:* Etherscan-equivalent static client-side block explorer. Features live on-chain account transaction scanning and MetaMask Faucet interfaces.
+- 🚰 **Faucet Smart Contract:** [https://github.com/henrydev-dot/nano-faucet-contract](https://github.com/henrydev-dot/nano-faucet-contract)
+  - *Description:* On-chain daily faucet written in Solidity v0.8.20 dispensing 10 NANO per request with 24-hour rate limit security.
+
+---
+
+## NETWORK SPECIFICATIONS & PARAMS
 
 - **Network Name:** NANO POW Chain
-- **Chain ID:** `78910`
+- **Chain ID:** `78910` (Hex: `0x13446`)
 - **Token Symbol:** `NANO`
 - **Total Supply Cap:** `110,000,000 NANO`
 - **Initial Block Reward:** `260 NANO` (Halves every `211,538` blocks)
-- **Uncle Rewards:** Disabled (Strict fair supply curves)
-- **Target Block Time:** 13-15 seconds
-- **Gas Limit:** `30,000,000`
+- **Uncle/Nephew Rewards:** Disabled (Strict fair supply emissions)
+- **Target Block Time:** 13 - 15 seconds
+- **Block Gas Limit:** `30,000,000`
 - **Genesis Difficulty:** `1024` (0x400) - CPU miner friendly
 - **Public RPC Endpoint:** `https://rpc.orisdao.com`
 - **Public Block Explorer:** `http://explorer.nan0.cash`
@@ -34,7 +50,16 @@ You can manually add the NANO POW Chain to MetaMask using the following details:
 - **Currency Symbol:** `NANO`
 - **Block Explorer URL:** `http://explorer.nan0.cash`
 
-Alternatively, you can visit the [NANO Block Explorer](http://explorer.nan0.cash) and click **ADD NANO CHAIN** to automatically add and connect your MetaMask wallet.
+Alternatively, you can visit the [NANO Block Explorer](http://explorer.nan0.cash) or [Landing Portal](http://nan0.cash) and click **ADD NANO CHAIN** to automatically add and connect your MetaMask wallet.
+
+---
+
+## ON-CHAIN PRIVACY ENGINE
+
+NANO POW resolves the biggest flaw of modern EVM chains: absolute transparency. Our native Privacy Layer provides:
+1. **Stealth Address Signatures:** Protects wallet balance histories from public scanner profiling by decoupling sender identities from block execution data.
+2. **Shielded Mixers:** Built-in zero-knowledge transfer structures allowing users to shield transactions on-chain.
+3. **EVM Compatibility:** The privacy mechanics operate directly inside the consensus layer, ensuring 100% compatibility with public EVM smart contracts, Solidity, and standard decentralized finance dApps.
 
 ---
 
